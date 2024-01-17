@@ -17,7 +17,7 @@ function exibirMensagemInicial() {
 }
 
 function gerarNumeroAleatorio() {
-    return parseInt(Math.random() * 100 + 1);
+    return parseInt(Math.random() * 50 + 1);
 }
 
 function verificarChute() {
